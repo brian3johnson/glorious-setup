@@ -7,10 +7,11 @@ Welcome to glorious-setup's documentation!
 ==========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-
+   glorious_setup
+   optimal
 
 Indices and tables
 ==================
